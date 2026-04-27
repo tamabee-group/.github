@@ -25,6 +25,8 @@ Tamabee Group phát triển các giải pháp phần mềm phục vụ quản l�
 |---|---|---|
 | [`tamabee_house_backend`](https://github.com/tamabee-group/tamabee_house_backend) | House - REST API server | Java 21 · Spring Boot 4 · PostgreSQL |
 | [`tamabee_house_frontend`](https://github.com/tamabee-group/tamabee_house_frontend) | House - Giao diện web | Next.js 16 · React 19 · TypeScript · Tailwind CSS |
+| [`tamabee_house_backend`](https://github.com/tamabee-group/tamabee_hr_backend) | House - REST API server | Java 21 · Spring Boot 4 · PostgreSQL |
+| [`tamabee_house_frontend`](https://github.com/tamabee-group/tamabee_hr_frontend) | House - Giao diện web | Next.js 16 · React 19 · TypeScript · Tailwind CSS |
 
 ### 🛠️ Hạ tầng & Công cụ
 
